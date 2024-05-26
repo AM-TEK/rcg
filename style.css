@@ -1,0 +1,17 @@
+.center {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.pwd-length {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+}
+
+#length {
+  width: 100%;
+  margin-top: 10px;
+}
